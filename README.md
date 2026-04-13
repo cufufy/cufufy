@@ -56,15 +56,15 @@
   <br />
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cufufy&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=cufufy&theme=tokyo-night&hide_border=true"
     alt="GitHub activity graph"
   />
 
   <br />
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=cufufy&theme=tokyonight&no-frame=true&row=1&column=6"
-    alt="GitHub trophies"
-  />
+  src="https://trophy.ryglcloud.net/?username=cufufy&theme=tokyonight&no-frame=true&row=1&column=6"
+  alt="GitHub trophies"
+/>
 
 </details>
