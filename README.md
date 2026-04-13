@@ -23,6 +23,12 @@
 - Backend and networking projects
 - Homelab / virtualization / self-hosted tooling
 
+## Featured projects
+
+- **ClassiCraft** — Minecraft server/community project
+- **IssueTracking** — issue tracker for Cufufy projects
+- **Outter** — Discord-alternative app concept and development work
+
 ## Tech I work with
 
 <p>
@@ -43,12 +49,6 @@
 ## Language analytics
 
 ![Language Analytics](./stats/leaderboard_by_lines.png)
-
-## Featured projects
-
-- **ClassiCraft** — Minecraft server/community project
-- **IssueTracking** — issue tracker for Cufufy projects
-- **Outter** — Discord-alternative app concept and development work
 
   <img
   src="https://trophy.ryglcloud.net/?username=cufufy&theme=tokyonight&no-frame=true&row=1&column=6"
