@@ -1,0 +1,2 @@
+- name: GitHub Profile Language Analytics
+  uses: StefVuck/Github-Language-Stats@v1.1.0
