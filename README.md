@@ -38,20 +38,7 @@
 
 ## GitHub stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cufufy&show_icons=true&hide_border=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cufufy&show_icons=true&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cufufy&show_icons=true&hide_border=true"
-    alt="GitHub stats"
-  />
-</picture>
+![GitHub stats](./profile/stats.svg)
 
 ## Language analytics
 
