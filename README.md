@@ -50,21 +50,11 @@
 - **IssueTracking** — issue tracker for Cufufy projects
 - **Outter** — Discord-alternative app concept and development work
 
-<details>
-  <summary><b>More profile stuff</b></summary>
-
-  <br />
-
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=cufufy&theme=tokyo-night&hide_border=true"
-    alt="GitHub activity graph"
-  />
-
-  <br />
-
   <img
   src="https://trophy.ryglcloud.net/?username=cufufy&theme=tokyonight&no-frame=true&row=1&column=6"
   alt="GitHub trophies"
-/>
-
-</details>
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cufufy&theme=tokyo-night&hide_border=true"
+    alt="GitHub activity graph"
+  />
