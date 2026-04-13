@@ -1,3 +1,4 @@
+# .github/workflows/language-analytics.yml
 name: Update Language Statistics
 
 on:
@@ -11,10 +12,17 @@ permissions:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: StefVuck/Github-Language-Stats@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate language analytics
+        uses: stefvuck/github-profile-language-analytics@v1.1.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard"
+          visualization_types: "leaderboard bar pie donut"
           output_path: "stats"
+          exclude_languages: "HTML,CSS,Markdown"
+          top_repos_count: "8"
+          dark_mode: "true"
